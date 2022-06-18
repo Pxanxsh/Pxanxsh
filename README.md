@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Pranesh</h1>
 <h3 align="center">A passionate CSE student</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
+<img align="centre" alt="Coding" width="400" src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxanxsh&label=Profile%20views&color=0e75b6&style=flat" alt="pxanxsh" /> </p>
 
