@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pranesh.b06@gmail.com**
 
-- ⚡ Fun fact **I am a Football fanatic**
+- ⚡ Fun fact: **I am a Football fanatic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
