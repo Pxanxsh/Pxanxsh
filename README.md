@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxanxsh" alt="pxanxsh" /></a> </p>
 
-- 🔭 I’m currently working on **C language AND 100 days python bootcamp**
+- 🔭 I’m currently working on **Data Science and Machine learning**
 
-- 🌱 I’m currently learning **C++,HTML and CSS**
+- 🌱 I’m currently learning **DSA in C++**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Python, Data Science and Machine learning projects**
 
 - 💬 Ask me about **tech related stuff**
 
